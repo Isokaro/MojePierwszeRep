@@ -1,0 +1,25 @@
+{
+  "CharacterId": "auren-vale",
+  "UserId": "test1",
+  "UserProfile": {
+    "PreferredName": "Szymon",
+    "WritingStyle": null,
+    "TraitsObserved": []
+  },
+  "Relationship": {
+    "Friendship": 1,
+    "Trust": 1,
+    "Romance": 0,
+    "Hostility": 0,
+    "CurrentLevel": "Obcy"
+  },
+  "Notes": [
+    {
+      "AtUtc": "2026-01-19T21:05:19.4035808Z",
+      "Topic": "Dane u\u017Cytkownika",
+      "Note": "U\u017Cytkownik poda\u0142 imi\u0119: Szymon",
+      "Importance": 3
+    }
+  ],
+  "Summary": "Rozmowa jest w toku. Posta\u0107 buduje notatki o u\u017Cytkowniku na podstawie kolejnych wiadomo\u015Bci."
+}
